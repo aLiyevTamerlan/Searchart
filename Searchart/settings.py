@@ -52,6 +52,9 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://searchart-production.up.railway.app/'
+]
 ROOT_URLCONF = 'Searchart.urls'
 
 TEMPLATES = [
