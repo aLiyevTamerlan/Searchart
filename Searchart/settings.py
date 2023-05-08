@@ -53,7 +53,7 @@ MIDDLEWARE = [
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://searchart-production.up.railway.app/'
+    'https://searchart-production.up.railway.app'
 ]
 ROOT_URLCONF = 'Searchart.urls'
 
