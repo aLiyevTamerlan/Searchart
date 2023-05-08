@@ -1,0 +1,140 @@
+Sector,Subsector,Weight,Indicator,Selected years,Indicator weight,"Economical Growth &
+Development Index Weights"
+Agriculture,Agriculture,0.2,Agricultural land sq. km.,1961-2020,0.9,0.3
+Agriculture,Agriculture,,Agriculture value added billion USD,1995-2021,1,0.7
+Agriculture,Agriculture,,Arable land percent of total land area,1961-2020,0.8,0.4
+Agriculture,Agriculture,,Cereal yield kg per hectar,1992-2020,0.9,0.5
+Agriculture,Agriculture,,Crop production index (2004-2006 = 100),1961-2020,0.7,0.4
+Agriculture,Agriculture,,Employment in agriculture % of total employment,1991-2019,0.6,0.3
+Agriculture,Agriculture,,Food production index (2004-2006 = 100),1992-2020,0.7,0.5
+Agriculture,Agriculture,,Forest area percent of total land area,1992-2020,0.6,0.2
+Agriculture,Agriculture,,Forest area sq. km,1992-2020,0.6,0.2
+Agriculture,Agriculture,,Livestock production index (2004-2006 = 100),1992-2020,0.7,0.3
+Agriculture,Agriculture,,Percent agricultural land,1992-2020,0.8,0.3
+Agriculture,Agriculture,,Value added in the agricultural sector as percent of GDP,2000-2020,1,0.6
+Army,Military,0.3,Armed forces personnel,1989 - 2019,0.8,0.3
+Army,Military,,Armed forces personnel percent of the labor force,1989 - 2019,0.5,0.3
+Army,Military,,Military spending in billion U.S. dollars,1993 - 2020,0.9,0.3
+Army,Military,,Military spending percent of GDP,1977 - 2020,0.9,0.3
+Army,Military,,Military spending percent of total government spending,2000 - 2020,0.7,0.3
+Economy,Banking system access and depth,0.7,ATMs per 100000 adults,2010-2020,0.7,0.3
+Economy,Banking system access and depth,,Bank assets percent of GDP,1960-2020,1,0.7
+Economy,Banking system access and depth,,Bank branches per 100000 people,2006-2020,0.8,0.4
+Economy,Banking system access and depth,,Bank credit to government and public enterprises percent of GDP,1980-2018,0.6,0.5
+Economy,Banking system access and depth,,Bank credit to the private sector as percent of GDP,2001-2019,0.9,0.6
+Economy,Banking system access and depth,,Financial system deposits percent of GDP,1960-2019,1,0.6
+Economy,Banking system access and depth,,Liquid liabilities percent of GDP,1962-2019,0.8,0.4
+Economy,Banking system efficiency and stability,0.8,Bank credit as percent of bank deposits,1960-2019,0.6,0.4
+Economy,Banking system efficiency and stability,,Credit information sharing index 0 (low) - 8 (high),2013-2019,0.7,0.6
+Economy,Banking system efficiency and stability,,Index of legal rights for creditors and borrowers (0 = weak to 12 = strong),2014-2020,0.8,0.7
+Economy,GDP and economic growth,0.9,Economic growth: the rate of change of real GDP,1961-2021,0.9,0.9
+Economy,GDP and economic growth,,GDP per capita Purchasing Power Parity,1990-2021,0.8,0.9
+Economy,GDP and economic growth,,GDP per capita constant 2010 dollars,1960-2021,0.7,0.9
+Economy,GDP and economic growth,,GDP per capita current U.S. dollars,1960-2021,0.7,0.8
+Economy,GDP and economic growth,,GDP per hour worked in current USD PPP adjusted,1970-2021,0.6,0.7
+Economy,GDP and economic growth,,GDP per hour worked index relative to the U.S.,2001-2021,0.6,0.6
+Economy,GDP and economic growth,,Gross Domestic Product billions of 2010 U.S. dollars,1960-2021,0.8,0.9
+Economy,GDP and economic growth,,Gross Domestic Product billions of U.S. dollars,1960-2021drop,0.8,0.8
+Economy,Globalization indices,0.4,Economic globalization index (0-100),1970-2019,0.8,0.7
+Economy,Globalization indices,,Globalization index (0-100),1970-2019,0.7,0.6
+Economy,Government,0.8,Fiscal balance percent of GDP,1961-2021,0.9,0.7
+Economy,Government,,Foreign aid and official development assistance received,1960-2019,0.6,0.5
+Economy,Government,,Government spending billion USD,2007-2021,0.8,0.7
+Economy,Government,,Number of taxes paid by businesses,2005-2019,0.7,0.5
+Economy,Government,,Tax preparation time in hours,2007-2019,0.6,0.4
+Economy,Government,,Tax rate percent of commercial profits,2005-2019,0.8,0.5
+Economy,Industry Oil gold coal and electricity,0.6,Coal consumption thousand short tons,2019-2020,0.7,0.2
+Economy,Industry Oil gold coal and electricity,,Coal exports thousand short tons,2019-2020,0.5,0.2
+Economy,Industry Oil gold coal and electricity,,Coal imports thousand short tons,2018-2019,0.5,0.2
+Economy,Industry Oil gold coal and electricity,,Coal production thousand short tons,1980-2020,0.7,0.2
+Economy,Industry Oil gold coal and electricity,,Coal reserves million short tons,2008-2019,0.8,0.3
+Economy,Industry Oil gold coal and electricity,,Electricity consumption billion kilowatthours,1980-2020,0.9,0.7
+Economy,Industry Oil gold coal and electricity,,Electricity exports billion kilowatthours,1980-2020,0.5,0.3
+Economy,Industry Oil gold coal and electricity,,Electricity imports billion kilowatthours,1980-2020,0.5,0.3
+Economy,Industry Oil gold coal and electricity,,Electricity production billion kilowatthours,1980-2020,0.9,0.8
+Economy,Industry Oil gold coal and electricity,,Electricity production capacity million kilowatts,1980-2020,0.8,0.4
+Economy,Industry Oil gold coal and electricity,,Gasoline consumption thousand barrels per day,1980-2020,0.6,0.4
+Economy,Industry Oil gold coal and electricity,,Gasoline production thousand barrels per day,1980-2021,0.6,0.4
+Economy,Industry Oil gold coal and electricity,,Jet fuel consumption thousand barrels per day,1980-2021,0.6,0.4
+Economy,Industry Oil gold coal and electricity,,Jet fuel production thousand barrels per day,1980-2014,0.6,0.4
+Economy,Industry Oil gold coal and electricity,,Liquefied petroleum gas consumption thousand barrels per day,1980-2021,0.6,0.4
+Economy,Industry Oil gold coal and electricity,,Liquefied petroleum gas production thousand barrels per day,1980-2014,0.6,0.4
+Economy,Industry Oil gold coal and electricity,,Oil consumption thousand barrels per day,1980-2014,0.9,0.4
+Economy,Industry Oil gold coal and electricity,,Oil production thousand barrels per day,1980-2020,0.9,0.4
+Economy,Industry Oil gold coal and electricity,,Oil reserves billion barrels,1980-2021,1,0.5
+Economy,Industry Oil gold coal and electricity,,Gold production in kilograms,(2001 - 2019) 2013-2017 (0.2 - 0.22),0.4,0.1
+Economy,Industry Oil gold coal and electricity,,Renewable power capacity million kilowatts,1980-2020,0.8,0.9
+Economy,Industry Oil gold coal and electricity,,Renewable power generation billion kilowatthours,1980-2020,0.8,0.9
+Economy,International trade and investment,,Current account balance as percent of GDP,1995 - 2021,0.9,0.7
+Economy,International trade and investment,,Current account balance billion USD,2005 - 2020,0.8,0.6
+Economy,International trade and investment,,Exports of goods and services as percent of GDP,2005 - 2020,0.9,0.8
+Economy,International trade and investment,,Foreign Direct Investment billion USD,1972 - 2020,1,0.7
+Economy,International trade and investment,,Foreign Direct Investment percent of GDP,1984 - 2020,0.9,0.7
+Economy,International trade and investment,,Foreign exchange reserves including gold billion USD,1993 - 2020,0.9,0.6
+Economy,International trade and investment,,Imports of goods and services as percent of GDP,1995 - 2020,0.9,0.8
+Economy,International trade and investment,,Imports of goods and services billion USD,1995 - 2020,0.8,0.7
+Economy,International trade and investment,,Remittances as percent of GDP,2005 - 2020,0.7,0.6
+Economy,International trade and investment,,Terms of trade base year = 2000,2000 - 2020,0.6,0.5
+Economy,International trade and investment,,Trade balance as percent of GDP,1995 - 2020,0.8,0.6
+Economy,International trade and investment,,Trade balance billion USD,2005 - 2020,0.7,0.6
+Economy,International trade and investment,,Trade openness: exports plus imports as percent of GDP,1995 - 2020,0.9,0.8
+Economy,Money,0.6,Inflation: percent change in the Consumer Price Index,1960 - 2021,,0.8
+Economy,Shares of world totals,0.5,Percent of world Foreign Direct Investment,1993-2020,0.8,0.8
+Economy,Shares of world totals,,Percent of world GDP,1990-2020,1,1
+Economy,Shares of world totals,,Percent of world exports,1995-2020,0.9,0.8
+Economy,Shares of world totals,,Percent of world imports,1995-2020,0.9,0.8
+Economy,Shares of world totals,,Percent of world oil reserves,1994-2020,0.7,0.4
+Economy,Shares of world totals,,Percent of world population,1960-2020,1,0.6
+Economy,"Stock market, insurance, pensions",0.3,Life insurance premium volume percent of GDP,1995-2019,0.8,0.2
+Economy,"Stock market, insurance, pensions",,Non-life insurance premium volume percent of GDP,1992-2018,0.7,0.2
+Economy,Tourism,0.5,International tourism revenue,2000-2018,0.9,0.6
+Economy,Tourism,,International tourism revenue percent of GDP,2000-2018,0.8,0.4
+Economy,Tourism,,Percent of world tourist arrivals,1995-2019,0.7,0.4
+Economy,Tourism,,Tourist arrivals,1995-2019,0.6,0.4
+Index,Index,,Human Development Index (0 - 1),2000-2020,,1
+Government,Governance and business environment,0.8,Civil liberties index 7 (weak) - 1 (strong) ,1991-2020,0.8,0.9
+Government,Governance and business environment,,Corruption Perceptions Index 100 = no corruption,2001-2021,0.9,0.9
+Government,Governance and business environment,,Cost of starting a business % of income per capita,2003-2019,0.7,0.6
+Government,Governance and business environment,,Political rights index 7 (weak) - 1 (strong),1972-2020,0.8,0.9
+Government,Governance and business environment,,Political stability index (-2.5 weak; 2.5 strong),2002-2021,0.9,0.8
+Government,Governance and business environment,,Shadow economy percent of GDP,1991-2015,0.6,0.5
+Health,Health spending and outcome,0.7,Cases of Tuberculosis per 100000 people,2000-2020,0.7,0.3
+Health,Health spending and outcome,,Death rate per 1000 people,1960-2020,0.8,0.3
+Health,Health spending and outcome,,Fertility rate births per woman,1960-2020,0.6,0.2
+Health,Health spending and outcome,,Health spending as percent of GDP,2000-2019,0.9,0.7
+Health,Health spending and outcome,,Health spending per capita,2000-2019,0.7,0.6
+Health,Health spending and outcome,,Life expectancy in years,1960-2020,1,0.8
+Health,Health spending and outcome,,Percent of children ages 12-23 months with measles immunization,1992-2020,0.8,0.4
+Health,Health spending and outcome,,Percent of one-year-old children with Hepatitis B immunization,2008-2020,0.8,0.4
+Health,Health spending and outcome,,Suicide mortality rate per 100000 population,2000-2019,0.7,0.3
+Health,Healthcare resources,0.5,Hospital beds,2000-2020,0.8,0.6
+Health,Healthcare resources,,Hospital beds per 1000 people,2002-2021,0.9,0.6
+Social,Inequality and poverty,0.7,Gini income inequality index,1991-2020,0.9,0.7
+Social,Inequality and poverty,,Percent income earned by the top 10 percent of earners,1991-2020,0.8,0.6
+Social,Inequality and poverty,,Poverty percent of population,1989-2020,0.9,0.8
+Social,Inequality and poverty,,Poverty ratio percent living on less than 1.90 USD a day,1991-2020,1,0.9
+Social,Labor Market,0.8,Female labor force participation rate,1990 - 2021,0.8,0.8
+Social,Labor Market,,Labor force million people,1990 - 2021,0.7,0.7
+Social,Labor Market,,Labor force participation rate,1990 - 2021,0.9,0.7
+Social,Labor Market,,Labor force percent female,1990 - 2021,0.8,0.8
+Social,Labor Market,,Male labor force participation rate,1990 - 2021,0.7,0.7
+Social,Labor Market,,Unemployment rate,1990 - 2021,0.9,0.8
+Social,Labor Market,,Unemployment rate for females,1991 - 2021,0.8,0.8
+Social,Labor Market,,Unemployment rate for males,1991 - 2021,0.7,0.8
+Social,Labor Market,,Youth unemployment ages 15-24,1991 - 2021,0.9,0.8
+Transportation,Infrastructure and transport characteristics,0.7,Broadband internet subscribers in thousands,2009-2020,0.9,0.8
+Transportation,Infrastructure and transport characteristics,,Fixed broadband internet subscribers per 100 people,1998-2020,0.8,0.8
+Transportation,Infrastructure and transport characteristics,,International Internet bandwidth per Internet user kb/s,1996-2020,0.7,0.7
+Transportation,Infrastructure and transport characteristics,,Mobile network coverage percent of the population,2012-2016,0.9,0.7
+Transportation,Infrastructure and transport characteristics,,Mobile phone subscribers in millions,1975-2020,0.8,0.7
+Transportation,Infrastructure and transport characteristics,,Mobile phone subscribers per 100 people,1975-2020,0.8,0.7
+Transportation,Infrastructure and transport characteristics,,New commercial vehicle sales numbers per year,2005-2020,0.6,0.3
+Transportation,Infrastructure and transport characteristics,,New passenger car sales numbers per year,2005-2020,0.6,0.3
+Transportation,Infrastructure and transport characteristics,,Number of 20-foot containers passing through the ports,2000-2020,0.7,0.5
+Transportation,Infrastructure and transport characteristics,,Balance of payments net errors and omissions,2005-2021,0.5,0.4
+Technology & Innovation,Innovation Measures,0.6,High tech exports percent of manufactured exports,2010 - 2020,0.8,0.6
+Technology & Innovation,Innovation Measures,,High technology exports,2010 - 2020,0.7,0.5
+Technology & Innovation,Innovation Measures,,Information technology exports percent of total goods exports,2000-2019,0.6,0.6
+Other,Other,,Gold production in kilograms,(2001 - 2019) 2013-2017 (0.2 - 0.22),,0.1
+Other,Other,,Land area in sq. km,1961-2020,,0.2
+Other,Other,,Women in parliament percent,2003-2021,,0.6
