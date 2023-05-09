@@ -11,3 +11,4 @@ class SubsectorAdmin(admin.ModelAdmin):
 @admin.register(Indicator)
 class IndecatorAdmin(admin.ModelAdmin):
     list_display = ['indicator_name','sub_sector', 'content']
+    search_fields = ['indicator_name']
