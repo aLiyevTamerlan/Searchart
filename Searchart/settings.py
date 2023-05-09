@@ -41,9 +41,11 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_yasg',
     'django_extensions',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -56,6 +58,11 @@ MIDDLEWARE = [
 CSRF_TRUSTED_ORIGINS = [
     'https://searchart-production.up.railway.app'
 ]
+
+CORS_ALLOWED_ORIGINS = [
+    'https://searchart-production.up.railway.app'
+]
+
 ROOT_URLCONF = 'Searchart.urls'
 
 TEMPLATES = [
