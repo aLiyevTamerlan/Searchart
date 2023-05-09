@@ -63,6 +63,8 @@ CORS_ALLOWED_ORIGINS = [
     'https://searchart-production.up.railway.app'
 ]
 
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
 ROOT_URLCONF = 'Searchart.urls'
 
 TEMPLATES = [
