@@ -12,7 +12,9 @@ class SectorAllApiView(APIView):
     
 class SectorApiView(APIView):
     def get(self, request, sector_slug):
-        sector = Sector.objects.filter(slug=sector_slug)
+        sector = Sector.objects.prefetch_related('sub_sectors__indicators').filter(slug=sector_slug)
         serializer = SectorSerializer(sector, many = True)
 
         return Response({'sectors':serializer.data}) 
+    
+

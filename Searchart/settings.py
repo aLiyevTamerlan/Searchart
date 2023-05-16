@@ -41,11 +41,19 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_yasg',
     'django_extensions',
+    'debug_toolbar',
     'corsheaders',
+]
+
+INTERNAL_IPS = [
+    
+    "127.0.0.1",
+    
 ]
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -56,11 +64,15 @@ MIDDLEWARE = [
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://searchart-production.up.railway.app'
+    'https://searchart-production.up.railway.app',
+    'http://localhost:3000',
+    'http://127.0.0.1:5173',
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'https://searchart-production.up.railway.app'
+    'https://searchart-production.up.railway.app',
+    'http://localhost:3000',
+    'http://127.0.0.1:5173',
 ]
 
 ROOT_URLCONF = 'Searchart.urls'
