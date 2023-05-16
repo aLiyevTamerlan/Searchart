@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_yasg',
     'django_extensions',
-    'debug_toolbar',
+    
     'corsheaders',
 ]
 
