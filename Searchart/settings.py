@@ -67,12 +67,16 @@ CSRF_TRUSTED_ORIGINS = [
     'https://searchart-production.up.railway.app',
     'http://localhost:3000',
     'http://127.0.0.1:5173',
+    'http://127.0.0.1:5134',
+    'http://localhost:5134'
 ]
 
 CORS_ALLOWED_ORIGINS = [
     'https://searchart-production.up.railway.app',
     'http://localhost:3000',
     'http://127.0.0.1:5173',
+    'http://127.0.0.1:5134',
+    'http://localhost:5134'
 ]
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
