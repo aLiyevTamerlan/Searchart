@@ -1,9 +1,12 @@
 from django.contrib import admin
-from .models import Sector, Subsector, Indicator
+from .models import Sector, Subsector, Indicator, Profile
 # Register your models here.
 
 admin.site.register(Sector)
 
+# @admin.register(Profile)
+# class ProfileAdmin(admin.ModelAdmin):
+#     list_display=['name', 'data']
 @admin.register(Subsector)
 class SubsectorAdmin(admin.ModelAdmin):
     list_display=['subsector_name', 'sector']

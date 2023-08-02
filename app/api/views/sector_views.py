@@ -1,14 +1,14 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from app.api.serializer import SectorAllSerializer, SectorSerializer
-from app.models import Sector
+from app.models import Sector, Subsector
 
 class SectorAllApiView(APIView):
     def get(self, request):
         sector = Sector.objects.all()
         serializer = SectorAllSerializer(sector, many=True)
-
-        return Response({'sectors':serializer.data})
+        return Response(serializer.data)
+        # return Response({'sectors':serializer.data})
     
 class SectorApiView(APIView):
     def get(self, request, sector_slug):

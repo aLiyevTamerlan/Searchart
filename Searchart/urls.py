@@ -23,7 +23,7 @@ from app.views import home
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('app.urls.api_urls')),
-    path('', home),
+   
     path('api-auth/', include('rest_framework.urls')),
     # path('__debug__/', include('debug_toolbar.urls')),
 ]

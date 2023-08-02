@@ -7,12 +7,12 @@ def run():
     subsectors = data['Subsector']
     indecators = data['Indicator']
     
-    for index in range(len(subsectors)):
-        if subsectors[index] != "Other":
+    # for index in range(len(subsectors)):
+    #     if subsectors[index] != "Other":
 
-            subsector = Subsector.objects.get(subsector_name=subsectors[index])
-            indecator = Indicator.objects.create(indicator_name=indecators[index], sub_sector=subsector)
-            indecator.save()
+    #         subsector = Subsector.objects.get(subsector_name=subsectors[index])
+    #         indecator = Indicator.objects.create(indicator_name=indecators[index], sub_sector=subsector)
+    #         indecator.save()
 
     for indecator in range(len(content_data['Indicator'])):
         content_data['Indicator'][indecator] = content_data['Indicator'][indecator].replace(",","")

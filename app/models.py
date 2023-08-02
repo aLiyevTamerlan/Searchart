@@ -46,3 +46,6 @@ class Indicator(models.Model):
         return self.indicator_name
 
     
+class Profile(models.Model):
+    name = models.CharField(max_length=100)
+    data = models.JSONField()
